@@ -707,3 +707,8 @@ header {
     height: 90vmax;
   }
 }
+
+.portfolio-content-container{
+  display: flex;
+  justify-content: center;
+}
